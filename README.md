@@ -36,7 +36,8 @@
 #### Based on the research conducted from the previous HC assignments we observe such claims that were created to be true from our various graphs. These diagrams convey visual representation of the research from HC 2-4, demonstrating how fuel usage is affecting our neighborhoods. From our knowledge regarding the NYC Clean Heat Program in HC 3, we encountered the Types of Fuel Oils (No. 4 and No. 6), where No. 6 was revealed to create more environmental destruction due to it being heavy fuel for power plants and ships. Such claims from our research are proven to be correct, as in the neighborhoods in Brooklyn such as Flatbush, Brooklyn Heights, Ocean Parkway, and Borough Park convey the No. 6 type fuel oil contributing to equal or higher fuel usage. Brooklyn is one of the newer boroughs, which could attribute to its lower usage compared to other boroughs. Furthermore, from HC 3 the DEP Boiler Registration contributes to the older buildings in NYC generating loads of soot, blackening buildings, and consumed by residents who are breathing in the toxic air.
 
 ## HC 9: Interactive Map
-<img align="left" width="500" height="400" alt="Screenshot 2023-11-15 at 10 51 34 PM" src="https://github.com/angelinanur/angelinanur.github.io/assets/148802527/7b9ecd21-4f76-4fa5-8933-888f3c8c08d3">
-
+<dl>
+<iframe src="oceanparkwaymap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
 
 
